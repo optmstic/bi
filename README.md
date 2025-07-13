@@ -23,8 +23,8 @@ Forecasts are based on real Apple financial data (2006–2025) sourced from **Ya
 
 ## 📁 Files Included
 
-- `ProjetoFinal_Apple_PowerBI.pbix` – The interactive Power BI dashboard
-- `ProjetoFinal_Apple_PowerBI.pdf` – Full academic report detailing:
+- `PowerBI_dashboard.pbix` – The interactive Power BI dashboard
+- `PowerBI_report.pdf` – Academic report detailing:
   - Methodology
   - Model evaluation
   - Visuals and KPIs
