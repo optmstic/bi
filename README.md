@@ -29,6 +29,7 @@ Forecasts are based on real Apple financial data (2006–2025) sourced from **Ya
   - Model evaluation
   - Visuals and KPIs
   - Insights and conclusions
+- `forecast_script.ipynb` – Jupyter Notebook containing Python code for time series forecasting, including data preprocessing, model training (e.g., Prophet), and visualization of trends and predictions.
 
 ---
 
